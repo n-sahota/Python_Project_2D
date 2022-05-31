@@ -11,3 +11,7 @@ APLP1(human): A fasta file containing a single isoform of amyloid precursor like
 Unaligned= Containes all of the fasta sequences
 
 Aligned= The output of MAFFT MSA
+
+APPE2: The protein database structure of the E2 domain of APP, used for 3D measurements and structural bio-informatics
+
+APLPE2: The protein database structure of the E2 domain of APLP1, used for 3D measurements and structural bio-informatics
