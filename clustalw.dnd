@@ -1,0 +1,10 @@
+(
+(
+APLP_Seq:0.60991,
+Chicken_APP_Seq:0.03679)
+:0.02149,
+Human_APP_Seq:0.01079,
+(
+Dog_APP_Seq:0.01079,
+Pig_APP_Seq:0.00360)
+:0.00576);
